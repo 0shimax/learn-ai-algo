@@ -22,7 +22,7 @@ public:
             vector<int> v_tmp(s[from].begin() + 1, s[from].end());
             s[from].resize(v_tmp.size());
             s[from].swap(v_tmp);
-            //
+
             vector<vector<int>> s_print;
             for (auto e: s) {
                 vector<int> tmp;
