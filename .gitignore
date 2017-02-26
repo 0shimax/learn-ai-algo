@@ -16,6 +16,8 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 
-.gch
-.exe
-.out
+*.gch
+*.exe
+*.out
+
+.ex*/
