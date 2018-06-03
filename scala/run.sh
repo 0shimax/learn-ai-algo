@@ -1,1 +1,1 @@
- scalac KnightsTour.scala && scala ex02.KnightsTourApp
+ scalac MissionariesAndCannibals.scala && scala ex03.MissionariesAndCannibalsApp
